@@ -1,2 +1,2 @@
 # bartToEdge
-Parameter-efficient fine-tuning approaches can balance performance and resource constraints.
+Parameter-efficient fine-tuning approaches to balance performance and resource constraints.
